@@ -1,0 +1,25 @@
+
+/*.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.block {
+  width: 100%;
+}
+.label {
+  flex: 1;
+}
+.text {
+  flex: 4;
+}*/
+
+
+.root {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: center;
+}
